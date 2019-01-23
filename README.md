@@ -1,5 +1,5 @@
-# Lavirint
-
+# Labyrinth
+Project made for course `computer graphics`
 ## Comands:
 <ul>
   <li>W - Move forward</li>
