@@ -1,5 +1,5 @@
 # Labyrinth
-Project made for course `computer graphics`
+Project made for course `Computer Graphics` written in C/OpenGL
 ## Comands:
 <ul>
   <li>W - Move forward</li>
